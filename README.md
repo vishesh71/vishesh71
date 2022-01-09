@@ -2,7 +2,7 @@
   <b>VISHESH KUMAR</b>
 </h1>
 
-Heya! I'm Vishesh Kumar, a student currently living in Chennai, India. 
+Hey! I'm Vishesh Kumar, a student currently living in Chennai, India. Currently working on AI/ML and Data Science.
 
 <br>
 
@@ -20,7 +20,7 @@ class vishesh():
     self.name = "Vishesh Kumar";
     self.username = "vishesh71";
     self.location = "Chennai, India";
-    self.Linked.in = "https://www.linkedin.com/in/vishesh-kumar-9309331a9/"
+    self.Linked.in = "www.linkedin.com/in/vishesh-kumar-9309331a9/"
     
     
   
@@ -28,7 +28,7 @@ class vishesh():
     return self.name
 
 if __name__ == '__main__':
-    me = Vishesh Kumar()
+    me = Vishesh_Kumar()
 ```
 
 
@@ -52,7 +52,6 @@ if __name__ == '__main__':
 </p>
 <br>
 
-
-------
+----
 
 
