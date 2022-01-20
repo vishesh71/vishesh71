@@ -89,7 +89,7 @@ I'm currently a 3rd Year B.Tech Student from SRM University. I'm a AI/ML Develop
 </p>
 
 ```python
-class fazenecture():
+class Vishesh71():
     
   def __init__(self):
     self.name = "Vishesh Kumar";
